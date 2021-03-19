@@ -1,7 +1,9 @@
 body{
     background-color: plum;
-    background-image: url(pexels-photo-1591447.jpeg);
+    background-image: url(new.jpg);
     color: #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
