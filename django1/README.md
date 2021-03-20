@@ -6,6 +6,11 @@
 ## Description
 One Minute Motivations Center is a platform that connects different kinds people who motivate each other in different articles. The Aim of the project is to make sure people share articles that give others hope in life. The only platform also allows users to add articles and motivate other too.
 
+## Live Link (feel free to experiment all features)
+[View Site](https://motivations.herokuapp.com/)
+
+
+
 ## Setup Instructions:
 ### Requirements
 
