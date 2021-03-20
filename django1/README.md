@@ -100,11 +100,13 @@ To run the application on your development machine,
 ## User stories
 >As a user of the application I should be able to:
 
-- [X] View different photos that interest me.
-- [X] Click on a single photo to expand it and also view the details of the photo. The photo details must appear on a modal within the same route as the main page.
-- [X] Search for different categories of photos. (ie. Travel, Food)
-- [X] Copy a link to the photo to share with my friends.
-- [X] View photos based on the location they were taken.
+- [X] View different motivational articles.
+- [X] Click on the article title and read more details of the article.
+- [X] Can sign up to the application. 
+- [X] Can sign in to the application.
+- [X] Can also create a motivational articles and post for others to see
+- [X] Can sign out of the application.
+
 
 
 ## Bugs
