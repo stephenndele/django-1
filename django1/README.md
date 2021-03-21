@@ -11,8 +11,8 @@ The Motivational Minute is a platform that connects different kinds people who m
 
 ## Screenshots
 
-![Alt text](/assets/Screenshot.png?raw=true "Optional Title")
-![Alt text](/assets/Screenshot1.png?raw=true "Optional Title")
+![Alt text](django1/assets/Screenshot.png?raw=true "Optional Title")
+![Alt text](django1/assets/Screenshot1.png?raw=true "Optional Title")
 
 ## Setup Instructions:
 ### Requirements
