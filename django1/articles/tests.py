@@ -16,6 +16,13 @@ class UserTestClass(TestCase):
         self.assertTrue(isinstance(self.stephen,User))
 
 
+    # Testing Save Method
+    def test_save_method(self):
+        self.stephen.save()
+        users = User.objects.all()
+        self.assertTrue(len(users) > 0)
+
+
 class ArticleTestClass(TestCase):
 
     def setUp(self):
