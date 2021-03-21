@@ -8,11 +8,13 @@ The Motivational Minute is a platform that connects different kinds people who m
 
 ## Live Link (feel free to experiment all features)
 [View Site](https://motivations.herokuapp.com/)
-django1/assets/Screenshot1.png
+
 ## Screenshots
 
-![Alt text](/django1/assets/Screenshot.png?raw=true "Optional Title")
-![Alt text](/django1/assets/Screenshot1.png?raw=true "Optional Title")
+![Alt text](/django1/assets/Screenshot-main.png?raw=true "Main Page")
+
+
+![Alt text](/django1/assets/Screenshot2.png?raw=true "Motivationals")
 
 ## Setup Instructions:
 ### Requirements
