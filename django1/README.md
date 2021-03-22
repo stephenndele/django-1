@@ -1,7 +1,7 @@
 ### Project Name
 # The Motivational Minute
 #### Author
-> Stephen Ndele
+### Stephen Ndele
 
 ## Description
 The Motivational Minute is a platform that connects different kinds people who motivate each other in different articles. The Aim of the project is to make sure people share articles that give others hope in life. The only platform also allows users to add articles and motivate other too.
